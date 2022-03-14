@@ -1,0 +1,16 @@
+{
+  "name": "adventJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:4": "jest reto4/code.test.js --watch"
+  },
+  "keywords": [],
+  "author": "Sebastian Buitrago <johanbuitrago342@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
